@@ -1,6 +1,6 @@
 # Sistema-de-informacion-educativo
 
-_Sistema-de-informacion-educativo realizado en PHP_
+_Sistema-de-informacion-educativo realizado en PHP - HACK_
 
 ## Comenzando 🚀
 
